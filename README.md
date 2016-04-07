@@ -1,7 +1,7 @@
 If your game is crashing on startup:
 
-    Update to Java 8. Uninstall Java 6.
-    Update your mods! Use mods ONLY from http://minecraft.curseforge.com/projects/little-things-mod.
+    Update to Java 8. Uninstall Java 6 or java 7.
+    Update your mod! Use mod ONLY from http://minecraft.curseforge.com/projects/little-things-mod.
     Be sure you do not have duplicates of the mod
     If you still have an actual issue, report away!
 
